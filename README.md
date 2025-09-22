@@ -1,6 +1,7 @@
 # Plant Disease Detection Using Transfer Learning with ResNet50
 
-![Project Banner](https://github.com/CydexCode/Plant_Disease_Detection_Using_Transfer_Learning_with_ResNet50/raw/main/Plant-disease-classifier-with-ai-blog-banner.jpg)
+![![plant-diseases-that-affect-cucumbers](https://github.com/user-attachments/assets/a2329f74-14f0-4504-8a2a-8e4a314be8cf)
+](https://github.com/CydexCode/Plant_Disease_Detection_Using_Transfer_Learning_with_ResNet50/raw/main/Plant-disease-classifier-with-ai-blog-banner.jpg)
 
 This project leverages transfer learning with a pre-trained ResNet50 model to detect plant diseases from leaf images. The model is fine-tuned to classify plant leaves as either **Healthy** or **Diseased**. By utilizing data augmentation techniques and handling imbalanced data with class weights, the model's performance and reliability are significantly improved.
 
@@ -11,7 +12,6 @@ This approach enhances the speed and accuracy of plant disease detection, aiding
 - [Features](#features)
 - [Methodology](#methodology)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Conclusion](#conclusion)
@@ -67,38 +67,6 @@ Plant disease detection  Dataset/
 ```
 - **Training Set:** 329 images
 - **Validation Set:** 81 images
-
-## Installation
-
-Follow these steps to set up the project locally.
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
-    ```
-
-2.  **Create and activate a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3.  **Install the required packages:**
-    Create a `requirements.txt` file with the following content:
-    ```
-    tensorflow
-    numpy
-    matplotlib
-    scikit-learn
-    ```
-    Then, run the installation command:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Unzip the dataset:**
-    Make sure the `Plant disease detection Dataset.zip` file is in the root directory. The script will handle the unzipping automatically.
 
 ## Usage
 
