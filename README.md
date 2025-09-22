@@ -109,10 +109,10 @@ Plant disease detection  Dataset/
 The model achieved a **validation accuracy of 88.89%** after 20 epochs of training.
 
 ### Training and Validation Accuracy
-![Accuracy Plot](images_set/training and validation accuracy.png)
+![Accuracy Plot](images_set/training_and_validation_accuracy.png)
 
 ### Training and Validation Loss
-![Loss Plot](images_set/training and validation loss.png)
+![Loss Plot](images_set/training_and_validation_loss.png)
 
 
 ## Conclusion
