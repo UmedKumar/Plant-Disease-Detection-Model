@@ -1,6 +1,6 @@
 # Plant Disease Detection Using Transfer Learning with ResNet50
 
-![Project Banner](<img width="1184" height="489" alt="Banner" src="https://github.com/user-attachments/assets/df05bd99-b8ba-4b31-9c12-51bf4870dbeb" />)
+![Project Banner](<img width="1184" height="489" alt="Banner" src="https://github.com/user-attachments/assets/4e0d3c19-a576-41e0-ac7d-169bd9971f8d" />)
 
 This project leverages transfer learning with a pre-trained ResNet50 model to detect plant diseases from leaf images. The model is fine-tuned to classify plant leaves as either **Healthy** or **Diseased**. By utilizing data augmentation techniques and handling imbalanced data with class weights, the model's performance and reliability are significantly improved.
 
